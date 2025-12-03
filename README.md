@@ -1,9 +1,9 @@
-![Mi Banner](img/)
+
 ## Hola!! Bienvenido a mi perfil de Github!! <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" width="20">
 
 <img align="right" width=300px alt="octocat" src="img/octocatAlvaro.png" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;
+
 <span style="font-size: 28px;">***About me***</span>
 
 Soy estudiante de 5º año de **Ingenieria Robotica Software**.  
